@@ -1,0 +1,8 @@
+0 Pet Sleep
+1 Pet Walk
+2 Pet Eat
+3 Cup
+4 Chair
+5 Human
+6 Table
+7 Tray
